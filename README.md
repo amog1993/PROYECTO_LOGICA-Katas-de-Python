@@ -47,11 +47,11 @@ Proyecto_katas_python.ipynb
 
 1. Clona este repositorio:
 
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/amog1993/PROYECTO_LOGICA-Katas-de-Python.git
 
 2. Accede a la carpeta del proyecto:
 
-cd tu-repo
+cd PROYECTO_LOGICA-Katas-de-Python
 
 3. Abre el notebook:
 
